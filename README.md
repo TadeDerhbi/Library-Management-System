@@ -57,6 +57,22 @@ Tracks the borrowing activities in the library.
 - Add and manage librarians.  
 - Record and update books with their availability status.  
 - Track which member borrowed which book and from which librarian.  
+- **Robust dataset** for testing and analysis.  
+
+---
+
+## 📊 Sample Queries
+Some included queries demonstrate:  
+- Listing all members who have borrowed a particular book.  
+- Finding all librarians who have checked out certain books.  
+- Retrieving a member's entire library checkout history.  
+- Identifying the most borrowed book  
+
+---
+
+📌 This project can serve as:  
+- A foundation for building a **Library management application**.  
+- A training tool for practicing **SQL queries** and database management.  
 
 ---
 
@@ -65,3 +81,6 @@ Tracks the borrowing activities in the library.
 - Relationships between tables are established using **FOREIGN KEYS**.  
 - You can extend the schema by adding more tables (e.g., Fines, Reservations).  
 
+---
+## 👨‍💻 Oguntade Oreoluwa Deborah
+Developed as a **Hospital Database Management System** project for structured healthcare data management.  
