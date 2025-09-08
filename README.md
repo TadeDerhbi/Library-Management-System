@@ -1,6 +1,6 @@
 # Library Management System
 
-## Databse Project Overview
+## Database Project Overview
 This project contains the **schema** for a Library Management System.  
 The goal is to help a library maintain an **organized system** that makes it easy to:
 - Track registered **members** and their activities.
