@@ -59,8 +59,6 @@ Tracks the borrowing activities in the library.
 - Track which member borrowed which book and from which librarian.  
 - **Robust dataset** for testing and analysis.  
 
----
-
 ## 📊 Sample Queries
 Some included queries demonstrate:  
 - Listing all members who have borrowed a particular book.  
@@ -68,13 +66,10 @@ Some included queries demonstrate:
 - Retrieving a member's entire library checkout history.  
 - Identifying the most borrowed book  
 
----
-
-📌 This project can serve as:  
+## 📌 This project can serve as:  
 - A foundation for building a **Library management application**.  
 - A training tool for practicing **SQL queries** and database management.  
 
----
 
 ## 📌 Notes
 - The schema uses **constraints** like `PRIMARY KEY`, `UNIQUE`, and `CHECK` to maintain data integrity.  
@@ -83,4 +78,4 @@ Some included queries demonstrate:
 
 ---
 ## 👨‍💻 Oguntade Oreoluwa Deborah
-Developed as a **Hospital Database Management System** project for structured healthcare data management.  
+Developed as a **Library Database Management System** project for structured Library data management.  
