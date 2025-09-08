@@ -19,8 +19,6 @@ Stores information about all librarians working in the library.
 - `work_email`, `phone` – Contact details.  
 - `resumption_date` – Date the librarian started working.
 
----
-
 ### 2. **Members Table**
 Stores details of all registered library members.  
 **Columns include:**
@@ -32,8 +30,6 @@ Stores details of all registered library members.
 - `date_of_reg` – Registration date.  
 - `membership_status` – Status of the membership (e.g., Active, Expired).
 
----
-
 ### 3. **Books Table**
 Keeps records of all books in the library.  
 **Columns include:**
@@ -43,8 +39,6 @@ Keeps records of all books in the library.
 - `year_of_publication` – Year the book was published.  
 - `genre` – Type of book (e.g., Fiction, Non-Fiction).  
 - `status` – Book availability (*Available*, *Borrowed*, *Missing*).
-
----
 
 ### 4. **Borrowing Table**
 Tracks the borrowing activities in the library.  
